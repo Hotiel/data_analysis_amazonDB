@@ -82,7 +82,7 @@ Se solicitó a CHAT GPT que plantee una serie de objetivos a cumplir recreando e
 - Los 50 productos más caros tienen un ranking promedio de 4.19, lo que indica buena percepción del valor premium
 - Dentro de _`figures`_ pueden encontrarse:
 	1- _`Figure_1_most_sold_categorys.webp`_ muestra de las categorías más vendidas dentro de las seleccionadas en nuestra db.
-	2- _`Figure_2_scatter_rating_rated.webp"_ un gráfico de dispersión precio/calidad de los 20 productos mejor valorados de la db.
+	2- _`Figure_2_scatter_rating_rated.webp"`_ un gráfico de dispersión precio/rating de los 20 productos mejor valorados de la db.
 	3- _`Figure_3_scatter_rating_expensive.webp`_ un segundo gráfico de dispersión, donde se muestran la misma relación del punto anterior, pero aplicada a los 50 productos más caros de la db.
 		_*Cabe destacar en este punto que muchos de los productos más caros son artículos de la misma marca y modelos con el mismo precio que sus homónimos, se recomienda un examen por marca y una revisión de los precios.*_
 	4- _`Figure_4_rating_distribution.webp`_ distribución gráfica de los ratings de los productos de la db.
